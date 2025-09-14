@@ -5,7 +5,7 @@ Hi! I'm Michiko Mendola, a results-driven QA Engineer with 6+ years across autom
 
 - Skills: STLC, Jira, SQL, Web/Mobile Testing, Manual + Automation (Cypress/Playwright), RCA, Agile/Scrum
 - Tools: BrowserStack, Jira, Bitbucket, VSCode, SharePoint, Git, Outlook, Slack, Time Doctor
-- Contact: (+63) 9951693397 · michimendola@gmail.com · [LinkedIn](www.linkedin.com/in/michikomendola)
+- Contact: michimendola@gmail.com · [LinkedIn](www.linkedin.com/in/michikomendola)
 
 This repo showcases a maintainable Playwright test suite for Gmail using the Page Object Model (POM) and parameterized test data.
 
