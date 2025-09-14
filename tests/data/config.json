@@ -1,0 +1,15 @@
+{
+  "validCredentials": {
+    "username": "your.email@gmail.com",
+    "password": "your_app_password"
+  },
+  "emails": [
+    { "to": "recipient@example.com", "subject": "Playwright Test 1", "body": "Hello from Playwright 1" },
+    { "to": "recipient@example.com", "subject": "Playwright Test 2", "body": "Hello from Playwright 2" },
+    { "to": "recipient@example.com", "subject": "Playwright Test 3", "body": "Hello from Playwright 3" }
+  ],
+  "invalidCredentials": {
+    "username": "invalid.user@example.com",
+    "password": "WrongPassword123!"
+  }
+}
